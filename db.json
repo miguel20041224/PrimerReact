@@ -1,0 +1,16 @@
+{
+  "personas": [
+    {
+      "tipoDocumento": "CC",
+      "numeroDocumento": "11111111",
+      "nombres": "mmiguel",
+      "apellidos": "flflfdlkfkfldlld",
+      "direccion": "dñddlkfkfll",
+      "ciudad": "medellin",
+      "fechaNacimiento": "2026-09-08",
+      "correo": "fddlflflfq@fkdldd",
+      "id": "W0JeGhjFHKA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
